@@ -5,7 +5,7 @@ The project contains the real world data record of hotel bookings of a city and 
 
 **Libraries used** : Pandas, Numpy, Matplotlib, Seaborn
 
-**NoteBook** : Google Colab
+**Notebook** : Google Colab
 
 **Dataset Source** : Provided by Almabetter themself.
 
